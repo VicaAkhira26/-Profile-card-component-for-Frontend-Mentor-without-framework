@@ -31,7 +31,7 @@ But i have a problem how i set the position and size of the two images used for 
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-for-frontend-mentor-without-framework-6DDDfP4te)
-- Live Site URL: [Click Here!](https://your-live-site-url.com)
+- Live Site URL: [Click Here!](https://vicaakhira26.github.io/-Profile-card-component-for-Frontend-Mentor-without-framework/)
 
 ## My process
 
